@@ -49,3 +49,7 @@ nav.navbar {
    color: white;
 
 }
+/* ##### Hero ##### */
+div.hero img {
+    width: 100%;
+}
